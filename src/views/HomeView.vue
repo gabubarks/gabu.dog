@@ -30,12 +30,13 @@
 </main>
 </template>
 
-<script>
+<script lang="ts">
+import { defineComponent } from 'vue'
 import Links from '../components/Links.vue'
 
-export default {
+export default defineComponent({
     components: {
         Links,
     },
-}
+})
 </script>
