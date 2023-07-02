@@ -8,6 +8,6 @@ import { RouterView } from 'vue-router'
 
 <style>
 body {
-    background-image: url("/static/img/bg.jpg");
+    /* background-image: url("/static/img/bg.jpg"); */
 }
 </style>

@@ -7,6 +7,7 @@ module.exports = {
         extend: {
             colors: {
                 gablue: '#066acf',
+                cloudy: '#cbdbfc',
             },
         },
     },
