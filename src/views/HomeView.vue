@@ -20,7 +20,7 @@
         <a href="https://cohost.org/gabu">
           <li class="bg-indigo-100 p-4 rounded-xl mb-1 font-medium text-indigo-600">cohost!!! <br><small>(my new home!)</small></li>
         </a>
-        <a href="https://chitter.xyz/@gabu">
+        <a rel="me" href="https://chitter.xyz/@gabu">
           <li class="bg-indigo-100 p-4 rounded-xl mb-1 font-medium text-indigo-600">mastodon! <br><small>(my other new home!)</small></li>
         </a>
         <a href="https://twitch.tv/gabubarks">
